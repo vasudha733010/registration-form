@@ -1,0 +1,38 @@
+
+input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    height:20px;
+    width:200px;
+    border-style:groov;
+    padding:2px;
+}
+.formdiv{
+    background-color:gray;
+    margin-top:120px;
+    margin-left: 290px;
+    height:75vh;
+    text-align: center;
+    width:60vw;
+    border-style: groove;
+    border-color:white;
+}
+.headone{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.btn{
+    width: 50px;
+}
+.imaggi1{
+    float:right;
+   margin-right:40px;
+padding:40px;
+}
+.btn2{
+    padding-left:20px;
+    padding-right: 20px;
+}
+
+
+
